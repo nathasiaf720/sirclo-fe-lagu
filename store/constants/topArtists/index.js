@@ -1,0 +1,8 @@
+export const ConstListArtists = {
+    SET_ARTIST: "ARTIST_DATAS",
+    CLEAR_ARTIST: "ARTIST_CLEAR",
+    FILTER_ARTIST: "ARTIST_FILTER",
+    FAILED: "ARTIST_FAILED",
+    LOADING: "ARTIST_LOADING",
+  };
+  

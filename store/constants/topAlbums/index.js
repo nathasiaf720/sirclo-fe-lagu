@@ -1,0 +1,8 @@
+export const ConstListAlbums = {
+    SET_ALBUM: "ALBUM_DATAS",
+    CLEAR_ALBUM: "ALBUM_CLEAR",
+    FILTER_ALBUM: "ALBUM_FILTER",
+    FAILED: "ALBUM_FAILED",
+    LOADING: "ALBUM_LOADING",
+  };
+  

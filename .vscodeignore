@@ -1,0 +1,14 @@
+# Files I excluded
+azure-pipelines.yml
+ISSUE_TEMPLATE.md
+PULL_REQUEST_TEMPLATE.md
+vsc-extension-quickstart.md
+node_modules/**/test/**
+.next/**
+
+# After webpack, we have more to ignore
+node_modules
+.next
+out/
+tsconfig.json
+webpack.config.json
